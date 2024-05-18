@@ -1,4 +1,4 @@
-# CPE313_Final-Project_Team1
+# Assessing Dogs Activity using Deep Learning
 
 IMRAD Paper: https://docs.google.com/document/d/1iBOdQN3GjonfwcXYmDoqewk6ZcYUuOsNeLIuZ4gQloc/edit?usp=sharing
 
